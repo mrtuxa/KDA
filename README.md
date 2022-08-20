@@ -1,4 +1,6 @@
 # KDA (Kotlin Discord API)
+#### THIS IS A PORT FROM JDA (JAVA) TO KOTLIN (KDA)
+
 KDA strives to provide a clean and full wrapping of the Discord REST api and its Websocket-Events for Java.
 This library is a helpful tool that provides the functionality to create a discord bot in kotlin.
 
